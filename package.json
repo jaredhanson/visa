@@ -1,7 +1,7 @@
 {
   "name": "visa",
-  "version": "0.0.0",
-  "description": "Simple, unobtrusive authentication for Node.js.",
+  "version": "0.0.1",
+  "description": "Simple, unobtrusive authorization for Node.js.",
   "keywords": [
     "authorization"
   ],
